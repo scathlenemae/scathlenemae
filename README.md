@@ -48,12 +48,12 @@ ENDCLASS.
   <tr>
     <td align="center" width="33%">
       <h3>🏦 BoraBank</h3>
-      <p><i>[One-line description of BoraBank]</i></p>
+      <p><i>A Telegram Chatbot for me and my friends to track payments for our SG trip and BTS savings</i></p>
       <a href="https://github.com/your-username/borabank"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
     </td>
     <td align="center" width="33%">
       <h3>💌 Unsent</h3>
-      <p><i>[One-line description of Unsent]</i></p>
+      <p><i>A interactive BTS AU made for fun and to explore more with web app development</i></p>
       <a href="https://github.com/your-username/unsent"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
     </td>
     <td align="center" width="33%">

@@ -49,17 +49,17 @@ ENDCLASS.
     <td align="center" width="33%">
       <h3>🏦 BoraBank</h3>
       <p><i>A Telegram Chatbot for me and my friends to track payments for our SG trip and BTS savings</i></p>
-      <a href="https://github.com/your-username/borabank"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
+      <a href="https://github.com/scathlenemae/borabank"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
     </td>
     <td align="center" width="33%">
       <h3>💌 Unsent</h3>
       <p><i>A interactive BTS AU made for fun and to explore more with web app development</i></p>
-      <a href="https://github.com/your-username/unsent"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
+      <a href="https://github.com/scathlenemae/unsent"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
     </td>
     <td align="center" width="33%">
       <h3>🛒 Dielle's POS</h3>
       <p><i>A point-of-sale system with barcode scanning and inventory tracking</i></p>
-      <a href="https://github.com/your-username/dielles-pos"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
+      <a href="https://github.com/scathlenemae/dielles-pos"><img src="https://img.shields.io/badge/View_Repo-F8C8DC?style=flat-square&logo=github&logoColor=B5687F" /></a>
     </td>
   </tr>
 </table>
@@ -95,12 +95,12 @@ ENDCLASS.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D98BA6&icon_color=F4A7BB&text_color=B5687F" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=scathlenemae&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D98BA6&icon_color=F4A7BB&text_color=B5687F" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D98BA6&text_color=B5687F" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&hide_border=true&background=FFF5F8&ring=F4A7BB&fire=F8C8DC&currStreakLabel=D98BA6&sideLabels=B5687F&currStreakNum=B5687F&sideNums=B5687F&dates=D98BA6" />
+  <img src="https://streak-stats.demolab.com?user=scathlenemae&hide_border=true&background=FFF5F8&ring=F4A7BB&fire=F8C8DC&currStreakLabel=D98BA6&sideLabels=B5687F&currStreakNum=B5687F&sideNums=B5687F&dates=D98BA6" />
 </p>
 
 ---

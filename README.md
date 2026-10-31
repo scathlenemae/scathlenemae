@@ -38,7 +38,7 @@ ENDCLASS.
 - 🌷 I'm **still learning and exploring SAP Fiori**, one app at a time
 - 🎀 Certified **SAP Back-End Developer – ABAP Cloud**
 - ✨ Outside of work, I **build apps on the side just for fun**
-- 📫 Say hi: **[your-email@example.com]**
+- 📫 Say hi: **scathlenemae@gmail.com**
 
 ---
 
@@ -108,9 +108,9 @@ ENDCLASS.
 ## 💕 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=B5687F" /></a>
+  <a href="https://www.linkedin.com/in/scathlenemae"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=B5687F" /></a>
   <a href="https://community.sap.com/t5/user/viewprofilepage/user-id/your-id"><img src="https://img.shields.io/badge/SAP_Community-F8C8DC?style=for-the-badge&logo=sap&logoColor=B5687F" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FADADD?style=for-the-badge&logo=gmail&logoColor=B5687F" /></a>
+  <a href="mailto:scathlenemae@gmail.com"><img src="https://img.shields.io/badge/Email-FADADD?style=for-the-badge&logo=gmail&logoColor=B5687F" /></a>
 </p>
 
 <p align="center"><i>✨ Keep the core clean, keep the code cute. ✨</i></p>

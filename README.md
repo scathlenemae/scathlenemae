@@ -96,7 +96,7 @@ ENDCLASS.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=scathlenemae&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D98BA6&icon_color=F4A7BB&text_color=B5687F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D98BA6&text_color=B5687F" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scathlenemae&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D98BA6&text_color=B5687F" />
 </p>
 
 <p align="center">
